@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Scientist at Universidade Federal Rural do Semi-Arido of Mossoró, Rio Grande do Norte, BR.
 - 💼 &nbsp; Working as a FullStack Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and DevOps.
