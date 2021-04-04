@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝 Connect with Me </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-silva-1620/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-blue?style=flat-square&logo=linkedin"></a>
