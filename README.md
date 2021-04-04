@@ -65,6 +65,5 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-silva-1620/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/aretw0"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aretw0-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:arthursilva.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arthursilva.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
