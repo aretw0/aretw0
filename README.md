@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=00ADD8)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
   ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs&logoColor=E23237)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848F)
-  ![Quasar](https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar&logoColor=976D2)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
