@@ -16,41 +16,12 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new and old methodologies, technologies and philosophies, always crafting some solutions and quick hacks.
 - 🎓 &nbsp; Computer Scientist at Universidade Federal Rural do Semi-Arido of Mossoró, Rio Grande do Norte, BR.
-- 💼 &nbsp; Working as a FullStack Developer.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and DevOps.
+- 💼 &nbsp; Working as a System Analyst.
+- 🌱 &nbsp; Learning more about Digital Gardening, GitOps and Local-first approaches.
 - ✍️ &nbsp; Pursuing Game Development as hobby.
-- 💬 &nbsp; Ask me about web development, indie games, spotify playlists, and nice youtube content. 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=00ADD8)
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs&logoColor=E23237)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-  ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848F)
-- 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
-  ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublime-text)
+- 💬 &nbsp; Ask me about self-replicant second-brain systems, games, playlists, and nice youtube content.
 
 <br/>
 
