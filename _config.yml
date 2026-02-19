@@ -27,9 +27,9 @@ url: "https://aretw0.dev.br" # the base hostname & protocol for your site, e.g. 
 github_username:  aretw0
 
 # Build settings
-theme: hacker
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
